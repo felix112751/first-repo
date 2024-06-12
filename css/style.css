@@ -14,3 +14,13 @@ img{border-radius: 50%;
 .wrapper{
     color: coral
 ;}
+body{
+
+ background-color: brown; 
+ background-size: cover;
+ 
+}
+#header{
+
+    color: blueviolet;
+}
